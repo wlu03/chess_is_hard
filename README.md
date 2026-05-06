@@ -4,10 +4,10 @@ A static research-style writeup of the EXPTIME-completeness of generalized $n \t
 
 ## Files
 
-- `index.html` — single-page article
-- `style.css` — typography & layout
-- `images/` — figures (FL81 architecture, gadget diagrams)
-- `vercel.json` — caching & header config
+- `index.html`: single-page article
+- `style.css`: typography and layout
+- `images/`: figures (FL81 architecture, gadget diagrams)
+- `vercel.json`: caching and header config
 
 Math is rendered client-side with MathJax 3 via CDN.
 
@@ -20,7 +20,7 @@ python3 -m http.server 8000
 
 ## Deploying to Vercel
 
-### Option A — Vercel CLI (fastest)
+### Option A. Vercel CLI (fastest)
 
 ```sh
 npm i -g vercel        # one-time
@@ -36,9 +36,9 @@ When prompted:
 - *Directory* → `./` (default)
 - *Override settings?* → **N**
 
-Vercel auto-detects this as a static site — no build step required.
+Vercel auto-detects this as a static site, no build step required.
 
-### Option B — GitHub + Vercel dashboard
+### Option B. GitHub + Vercel dashboard
 
 1. `git add . && git commit -m "site" && git push`
 2. Go to <https://vercel.com/new>, import the repo
