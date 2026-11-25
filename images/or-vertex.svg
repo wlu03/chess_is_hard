@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="270" viewBox="0 0 540 270" role="img" aria-labelledby="title desc">
+  <title id="title">OR vertex</title>
+  <desc id="desc">With the output pointing out, either weight-two input can supply the minimum inflow.</desc>
+  <rect x="0" y="0" width="540" height="270" rx="0" fill="#faf8f4" stroke="none" stroke-width="1.5" />
+  <line x1="270" y1="22" x2="270" y2="248" stroke="#d6cfc6" stroke-width="1" />
+  <text x="134" y="38" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" text-anchor="middle" fill="#252320" font-weight="650">Legal</text>
+  <line x1="53" y1="193" x2="112.14186962374406" y2="149.92135422468027" stroke="#245675" stroke-width="3" />
+  <polygon points="117.8,145.8 106.77,147.65 112.66,155.73" fill="#245675" />
+  <text x="53" y="178" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#245675" font-weight="650">2</text>
+  <line x1="150.2" y1="145.8" x2="209.34186962374406" y2="188.87864577531974" stroke="#245675" stroke-width="3" />
+  <polygon points="215,193 209.86,183.07 203.97,191.15" fill="#245675" />
+  <text x="215" y="178" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#245675" font-weight="650">2</text>
+  <circle cx="134" cy="134" r="11" fill="#252320" stroke="none" stroke-width="2" />
+  <line x1="134" y1="120" x2="134.0" y2="70.0" stroke="#245675" stroke-width="3" />
+  <polygon points="134,63 129.00,73.00 139.00,73.00" fill="#245675" />
+  <text x="153" y="87" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#245675" font-weight="650">2</text>
+  <text x="134" y="238" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" text-anchor="middle" fill="#252320" font-weight="600">Inflow = 2</text>
+  <text x="406" y="38" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" text-anchor="middle" fill="#252320" font-weight="650">Illegal</text>
+  <line x1="389.8" y1="145.8" x2="330.65813037625594" y2="188.87864577531974" stroke="#245675" stroke-width="3" />
+  <polygon points="325,193 336.03,191.15 330.14,183.07" fill="#245675" />
+  <text x="325" y="178" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#245675" font-weight="650">2</text>
+  <line x1="422.2" y1="145.8" x2="481.34186962374406" y2="188.87864577531974" stroke="#245675" stroke-width="3" />
+  <polygon points="487,193 481.86,183.07 475.97,191.15" fill="#245675" />
+  <text x="487" y="178" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#245675" font-weight="650">2</text>
+  <circle cx="406" cy="134" r="11" fill="#252320" stroke="none" stroke-width="2" />
+  <line x1="406" y1="120" x2="406.0" y2="70.0" stroke="#245675" stroke-width="3" />
+  <polygon points="406,63 401.00,73.00 411.00,73.00" fill="#245675" />
+  <text x="425" y="87" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#245675" font-weight="650">2</text>
+  <text x="406" y="238" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" text-anchor="middle" fill="#252320" font-weight="600">Inflow = 0</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="246" viewBox="0 0 540 246" role="img" aria-labelledby="title desc">
+  <title id="title">Two resting squares of a white control rook</title>
+  <desc id="desc">In the White controller, north encodes zero and south encodes one. The two panels depict the same rook channel.</desc>
+  <rect x="0" y="0" width="540" height="246" rx="0" fill="#faf8f4" stroke="none" stroke-width="1.5" />
+  <text x="131" y="38" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" text-anchor="middle" fill="#252320" font-weight="650">x = 0</text>
+  <rect x="109" y="63" width="44" height="132" rx="2" fill="white" stroke="#d6cfc6" stroke-width="1.5" />
+  <line x1="109" y1="107" x2="153" y2="107" stroke="#d6cfc6" stroke-width="1" />
+  <line x1="109" y1="151" x2="153" y2="151" stroke="#d6cfc6" stroke-width="1" />
+  <rect x="110" y="64" width="42" height="42" rx="0" fill="#e2eaf0" stroke="none" stroke-width="1.5" />
+  <g transform="translate(131 85) scale(1)" fill="#fffdf6" stroke="#252320" stroke-width="1.65" stroke-linejoin="round">
+    <path d="M-11 -12H-6V-8H-2V-12H2V-8H6V-12H11V-3L7 0V8L11 11V13H-11V11L-7 8V0L-11 -3Z" />
+  </g>
+  <text x="131" y="225" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#252320" font-weight="400">North square</text>
+  <text x="409" y="38" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" text-anchor="middle" fill="#252320" font-weight="650">x = 1</text>
+  <rect x="387" y="63" width="44" height="132" rx="2" fill="white" stroke="#d6cfc6" stroke-width="1.5" />
+  <line x1="387" y1="107" x2="431" y2="107" stroke="#d6cfc6" stroke-width="1" />
+  <line x1="387" y1="151" x2="431" y2="151" stroke="#d6cfc6" stroke-width="1" />
+  <rect x="388" y="152" width="42" height="42" rx="0" fill="#e2eaf0" stroke="none" stroke-width="1.5" />
+  <g transform="translate(409 173) scale(1)" fill="#fffdf6" stroke="#252320" stroke-width="1.65" stroke-linejoin="round">
+    <path d="M-11 -12H-6V-8H-2V-12H2V-8H6V-12H11V-3L7 0V8L11 11V13H-11V11L-7 8V0L-11 -3Z" />
+  </g>
+  <text x="409" y="225" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#252320" font-weight="400">South square</text>
+  <line x1="205" y1="124" x2="328.0" y2="124.0" stroke="#245675" stroke-width="3" />
+  <polygon points="335,124 325.00,119.00 325.00,129.00" fill="#245675" />
+  <line x1="335" y1="138" x2="212.0" y2="138.0" stroke="#245675" stroke-width="3" />
+  <polygon points="205,138 215.00,143.00 215.00,133.00" fill="#245675" />
+</svg>

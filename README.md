@@ -9,7 +9,7 @@ A static research-style writeup of the EXPTIME-completeness of generalized $n \t
 - `images/`: figures (FL81 architecture, gadget diagrams)
 - `vercel.json`: caching and header config
 
-Math is rendered client-side with MathJax 3 via CDN.
+The article uses HTML notation and scalable SVG diagrams. No build step is required.
 
 ## Local preview
 

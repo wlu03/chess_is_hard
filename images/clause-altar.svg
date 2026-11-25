@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="256" viewBox="0 0 540 256" role="img" aria-labelledby="title desc">
+  <title id="title">A clause channel counts the true literals</title>
+  <desc id="desc">For a two-literal term with both literals true, two Black queens can enter the channel. A White bishop may take the first at the altar. The second can get through.</desc>
+  <rect x="0" y="0" width="540" height="256" rx="0" fill="#faf8f4" stroke="none" stroke-width="1.5" />
+  <rect x="16" y="24" width="145" height="57" rx="7" fill="white" stroke="#d6cfc6" stroke-width="1.5" />
+  <g transform="translate(40 52) scale(0.78)" fill="#252320" stroke="#252320" stroke-width="1.65" stroke-linejoin="round">
+    <path d="M-12 -8L-6 -3L-5 -11L0 -5L5 -12L6 -3L12 -8L8 6H-8ZM-8 8H8L10 12H-10Z" />
+  </g>
+  <text x="103" y="58" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#252320" font-weight="400">x is true</text>
+  <line x1="166" y1="54" x2="226.8980634953421" y2="111.20727176835166" stroke="#245675" stroke-width="3" />
+  <polygon points="232,116 228.13,105.51 221.29,112.80" fill="#245675" />
+  <rect x="16" y="149" width="145" height="57" rx="7" fill="white" stroke="#d6cfc6" stroke-width="1.5" />
+  <g transform="translate(40 177) scale(0.78)" fill="#252320" stroke="#252320" stroke-width="1.65" stroke-linejoin="round">
+    <path d="M-12 -8L-6 -3L-5 -11L0 -5L5 -12L6 -3L12 -8L8 6H-8ZM-8 8H8L10 12H-10Z" />
+  </g>
+  <text x="103" y="183" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#252320" font-weight="400">y is true</text>
+  <line x1="166" y1="179" x2="226.936511190995" y2="120.8333302267775" stroke="#245675" stroke-width="3" />
+  <polygon points="232,116 221.31,119.29 228.22,126.52" fill="#245675" />
+  <rect x="236" y="73" width="134" height="88" rx="8" fill="#ebe6dd" stroke="#d6cfc6" stroke-width="1.5" />
+  <text x="303" y="110" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" text-anchor="middle" fill="#252320" font-weight="650">Altar</text>
+  <text x="303" y="137" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#252320" font-weight="400">1 defender</text>
+  <line x1="375" y1="117" x2="425.0" y2="117.0" stroke="#923d39" stroke-width="3" />
+  <polygon points="432,117 422.00,112.00 422.00,122.00" fill="#923d39" />
+  <g transform="translate(470 111) scale(1.2)" fill="#252320" stroke="#252320" stroke-width="1.65" stroke-linejoin="round">
+    <path d="M-12 -8L-6 -3L-5 -11L0 -5L5 -12L6 -3L12 -8L8 6H-8ZM-8 8H8L10 12H-10Z" />
+  </g>
+  <text x="465" y="152" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#252320" font-weight="400">Survivor</text>
+  <text x="270" y="237" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#252320" font-weight="400">Two true literals supply two attacking queens.</text>
+</svg>
