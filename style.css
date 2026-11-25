@@ -247,8 +247,9 @@ figure img {
   height: auto;
   border: 1px solid var(--rule);
   background: white;
-  padding: 8px;
-  border-radius: 2px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 4px;
 }
 figcaption {
   font-family: var(--sans);
@@ -257,7 +258,10 @@ figcaption {
   margin-top: 10px;
   line-height: 1.5;
   font-style: normal;
-  text-align: center;
+  text-align: left;
+  max-width: 540px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* ============== Tables ============== */
@@ -300,14 +304,6 @@ tbody tr:hover { background: rgba(0,0,0,0.012); }
 .references li { margin-bottom: 10px; line-height: 1.45; }
 .links li { margin-bottom: 6px; }
 
-/* ============== Math ============== */
-mjx-container[display="true"] {
-  margin: 14px 0 !important;
-  overflow-x: auto;
-  overflow-y: hidden;
-}
-mjx-container { font-size: 0.98em !important; }
-
 /* ============== Footer ============== */
 .page-footer {
   border-top: 1px solid var(--rule);
@@ -346,6 +342,7 @@ mjx-container { font-size: 0.98em !important; }
   .masthead { padding: 24pt 0 16pt; border: none; }
   .toc, .page-footer { display: none; }
   .article { padding: 0; max-width: none; }
+  figure { break-inside: avoid; }
   figure img { border: 1px solid #ccc; }
   a { color: var(--ink); border: none; }
 }
